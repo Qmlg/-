@@ -3,13 +3,9 @@
 <p>下面放链接地址！</p>
 <p>https://app.cloudlion.me/#/register?code=cUZdoHTH</p>
 <p>速度是这样的！</p>
-![image](https://github.com/user-attachments/assets/ebc908ab-8c22-4041-83c3-26a45cbe7d11)
-
-
+![image](jiediansudu.png)
 <p>套餐是这样的！</p>
-![image](https://github.com/user-attachments/assets/660269ca-e304-4ff5-af61-683af32a2ed8)
-
-
+![image](taocan.png)
 <p>实在是太好使了，如果担心跑路建议大家月付！</p>
 
 
