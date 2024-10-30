@@ -3,7 +3,7 @@
 <p>下面放链接地址！</p>
 https://app.cloudlion.me/#/register?code=cUZdoHTH
 <p>速度是这样的！</p>
-![image](https://github.com/user-attachments/assets/fa10ff6e-6bab-47cb-9fde-2fae0f07a526)
+<p>![image](https://github.com/user-attachments/assets/fa10ff6e-6bab-47cb-9fde-2fae0f07a526)</p>
 <p>套餐是这样的！</p>
-![image](https://github.com/user-attachments/assets/fb6a4363-b865-4e6c-9691-d1e7a855936f)
+<p>![image](https://github.com/user-attachments/assets/fb6a4363-b865-4e6c-9691-d1e7a855936f)</p>
 <p>实在是太好使了，如果担心跑路建议大家月付！</p>
