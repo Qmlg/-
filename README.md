@@ -3,10 +3,12 @@
 <p>下面放链接地址！</p>
 <p>https://app.cloudlion.me/#/register?code=cUZdoHTH</p>
 <p>速度是这样的！</p>
-![节点速度](https://github.com/user-attachments/assets/31f9568b-c796-4725-aeb9-ddf830ba7a3c)
+![image](https://github.com/user-attachments/assets/ebc908ab-8c22-4041-83c3-26a45cbe7d11)
+
 
 <p>套餐是这样的！</p>
-![套餐](https://github.com/user-attachments/assets/31febb6f-61d6-45a1-a738-a8d09289da10)
+![image](https://github.com/user-attachments/assets/660269ca-e304-4ff5-af61-683af32a2ed8)
+
 
 <p>实在是太好使了，如果担心跑路建议大家月付！</p>
 
